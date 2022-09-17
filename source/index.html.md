@@ -1,5 +1,5 @@
 ---
-title: BourseTrend API Reference
+title: BourseTrend API Reference2
 
 language_tabs: # must be one of https://git.io/vQNgJ
   - shell
